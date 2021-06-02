@@ -1,0 +1,36 @@
+.h1-class{
+  text-align: center;
+  color: brown;
+  font-size: larger;
+}
+.box-class{
+  float: left;
+  border: 2px solid rgb(22, 23, 24);
+  padding: 5px;
+  background-color: rgb(129, 109, 221);
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+}
+.p-class{
+  text-align: left;
+  width: auto;
+}
+.h2-class{
+  color: black;
+  font-size: larger;
+}
+.text-showing {
+  display: none;
+}
+
+.p{
+  cursor: pointer;
+  color: #ee5519;
+}
+
+.p:hover {
+  text-decoration: underline;
+}
