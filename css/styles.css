@@ -4,7 +4,7 @@
   font-size: larger;
 }
 .box-class{
-  float: left;
+  float: center;
   border: 2px solid rgb(22, 23, 24);
   padding: 5px;
   background-color: rgb(129, 109, 221);
@@ -23,6 +23,54 @@
   font-size: larger;
 }
 .text-showing {
+  display: none;
+}
+.otext-showing{
+  display: none;
+}
+.vtext-showing{
+display: none;
+}
+.ftext-showing{
+  display: none;
+}
+.mtext-showing{
+  display: none;
+}
+.atext-showing{
+  display: none;
+}
+.ptext-showing{
+  display: none;
+}
+.rtext-showing{
+  display: none;
+}
+.ctext-showing{
+  display: none;
+}
+.stext-showing{
+  display: none;
+}
+.btext-showing{
+  display: none;
+}
+.utext-showing{
+  display: none;
+}
+.ntext-showing{
+  display: none;
+}
+.nutext-showing{
+  display: none;
+}
+.altext-showing{
+  display: none;
+}
+.cotext-showing{
+  display: none;
+}
+.jqtext-showing{
   display: none;
 }
 
